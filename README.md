@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?size=30\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=500\&lines=Hey+I'm+Kawacu+Kent;Building+Futuristic+AI+Tools;Crafting+Clean+Minimal+UX)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=30\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=500\&lines=Hey+I'm+Kawacu+Kennedy;Building+Futuristic+AI+Tools;Crafting+Clean+Minimal+UX)
 
 <div align="center" style="width:100%;overflow:hidden;">
   <!-- Glitch background SVG strip -->
@@ -77,7 +77,7 @@ I’m a developer obsessed with creating intelligent tools and minimalist web ex
 💡 **LearnCode Platform**
 *A clean code snippet sharing platform with authentication and smooth UX.*
 
-🧠 **AI Terminal HUD**
+🧠 **Auralis**
 *A voice-enabled assistant integrating HuggingFace API and offline TinyGPT.*
 
 🎮 **Web Game Experiments**
@@ -102,5 +102,3 @@ I’m a developer obsessed with creating intelligent tools and minimalist web ex
 > Code is my interface to the future — minimalist, powerful, and intelligent.
 
 ---
-
-💡 *This profile README runs on clean aesthetics, subtle neon energy, and a love for precision.*
