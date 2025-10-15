@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Kawacu Kennedy
 
-<!--
-**kawacukennedy/kawacukennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves building intelligent tools, web apps, and AI-powered experiences. I write clean code, automate workflows, and constantly experiment with new tech.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build interactive web apps & experiments
+* Explore AI, automation, and developer tools
+* Share ideas and push limits through code
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `PHP` `Node.js` `React` `AI/ML Experiments`
+
+### 📌 Current Focus
+
+Crafting smart developer tools | AI integration | Clean UX-driven projects
+
+### 📬 Connect
+
+Feel free to explore my repositories — more cool stuff loading...
