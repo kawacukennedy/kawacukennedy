@@ -3,7 +3,7 @@
 <div align="center" style="width:100%;overflow:hidden;">
   <!-- Glitch background SVG strip -->
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none" style="width:100%;height:80px;display:block;">
-    <defs>
+    <defs> 
       <filter id="glitch">
         <feTurbulence baseFrequency="0.002 0.05" numOctaves="2" seed="2" result="turb" />
         <feDisplacementMap in="SourceGraphic" in2="turb" scale="6" xChannelSelector="R" yChannelSelector="G"/>
