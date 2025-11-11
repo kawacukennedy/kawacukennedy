@@ -60,8 +60,6 @@ I’m a developer obsessed with creating intelligent tools and minimalist web ex
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kawacukennedy\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawacukennedy\&layout=compact\&theme=radical)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kawacukennedy\&theme=react-dark\&hide_border=true)
 
 ───────────────◈───────────────
