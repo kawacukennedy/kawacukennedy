@@ -55,3 +55,22 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 </div>
 
 ---
+
+## ⚡ Support My Work
+
+Send tips directly — no platforms, no cuts.
+
+<div align="center">
+<a href="https://mempool.space/address/bc1pp8hthqn7rrnl46g42t0uzmw23r202avk40py79d42ugqr3ydf9hqx2aas9">
+  <img src="https://img.shields.io/badge/BTC-bc1pp8...aas9-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=0d1117" alt="BTC">
+</a>
+<a href="https://etherscan.io/address/0x5af56A1C0117e85cEd46c485A960f854A615e68f">
+  <img src="https://img.shields.io/badge/ETH-0x5af5...e68f-8a5af8?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" alt="ETH">
+</a>
+<a href="https://solscan.io/account/5VpWx6aiaVYUK27PADFRJqnSoZmbhaRAvmHazm4VGWqS">
+  <img src="https://img.shields.io/badge/SOL-5VpW...WqS-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" alt="SOL">
+</a>
+<a href="https://etherscan.io/address/0x5af56A1C0117e85cEd46c485A960f854A615e68f">
+  <img src="https://img.shields.io/badge/USDC-0x5af5...e68f-2775CA?style=for-the-badge&logo=usdc&logoColor=white&labelColor=0d1117" alt="USDC">
+</a>
+</div>
