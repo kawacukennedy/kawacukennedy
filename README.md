@@ -58,7 +58,7 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 
 ## ⚡ Support My Work
 
-Send tips directly — no platforms, no cuts.
+Send tips directly , no platforms, no cuts.
 
 <div align="center">
 <a href="https://mempool.space/address/bc1pp8hthqn7rrnl46g42t0uzmw23r202avk40py79d42ugqr3ydf9hqx2aas9">
