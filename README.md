@@ -69,6 +69,19 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 ## 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kawacukennedy/github-readme/main/output/contribs-dark.svg"
+    />
+    <img
+      alt="Isometric GitHub contribution chart"
+      src="https://raw.githubusercontent.com/kawacukennedy/github-readme/main/output/contribs-light.svg"
+    />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawacukennedy&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=8a5af8&icon_color=5ab3ff" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=kawacukennedy&theme=dark&hide_border=true&background=161b22&stroke=5ab3ff&ring=8a5af8&fire=ff4c4c" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawacukennedy&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=8a5af8" alt="Top Languages"/>
