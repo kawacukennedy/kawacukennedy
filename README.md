@@ -12,6 +12,14 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 
 ---
 
+## 🔭 Currently
+
+- Contributing to [mitiq](https://github.com/unitaryfoundation/mitiq) — quantum error mitigation toolkit
+- Building [TerraFund](https://github.com/TerraFund) — land-to-investor platform for Rwanda
+- Writing about open source at [substack.com/@kawacukennedy](https://substack.com/@kawacukennedy)
+
+---
+
 ## 💻 Skills
 
 <p align="center">
@@ -23,6 +31,18 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/unitaryfoundation/mitiq">
+    <img src="https://img.shields.io/badge/Contributor-mitiq-8a5af8?style=flat-square&logo=python&logoColor=white" alt="Mitiq"/>
+  </a>
+  <a href="https://github.com/TerraFund">
+    <img src="https://img.shields.io/badge/Builder-TerraFund-5ab3ff?style=flat-square&logo=typescript&logoColor=white" alt="TerraFund"/>
+  </a>
+  <a href="https://github.com/unitaryfoundation/clifft">
+    <img src="https://img.shields.io/badge/Contributor-clifft-8a5af8?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Clifft"/>
+  </a>
 </p>
 
 ---
