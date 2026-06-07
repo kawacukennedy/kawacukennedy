@@ -1,4 +1,4 @@
-# Hello, I'm KAWACU Kennedy 👋
+# Hello, I'm KAWACU Kennedy
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hello,+I'm+KAWACU+Kennedy!;Full-stack+Developer+%7C+Web3+Enthusiast;Open+Source+Contributor&font=Fira+Code&center=true&width=600&height=50&pause=1000&color=8a5af8" alt="Typing SVG"/>
@@ -6,13 +6,13 @@
 
 ---
 
-## 🌌 About Me
+## About Me
 
 Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about building decentralized applications, smart contracts, and modern web solutions. I love exploring new technologies, creating high-quality projects, and contributing to open-source communities.
 
 ---
 
-## 🔭 Currently
+## Currently
 
 - Contributing to [mitiq](https://github.com/unitaryfoundation/mitiq) — quantum error mitigation toolkit
 - Building [TerraFund](https://github.com/TerraFund) — land-to-investor platform for Rwanda
@@ -20,7 +20,7 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 
 ---
 
-## 💻 Skills
+## Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
@@ -47,7 +47,7 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://github.com/kawacukennedy/">
@@ -66,7 +66,7 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -82,14 +82,12 @@ Hi! I'm KAWACU Kennedy, a full-stack and Web3 developer passionate about buildin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawacukennedy&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=8a5af8&icon_color=5ab3ff" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=kawacukennedy&theme=dark&hide_border=true&background=161b22&stroke=5ab3ff&ring=8a5af8&fire=ff4c4c" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawacukennedy&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=8a5af8" alt="Top Languages"/>
 </p>
 
 ---
 
-## ⚡ Support My Work
+## Support My Work
 
 Send tips directly, no platforms, no cuts.
 
