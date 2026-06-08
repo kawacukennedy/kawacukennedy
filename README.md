@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  Full-stack developer and Web3 builder. I design, deploy, and contribute to open-source software that bridges decentralized infrastructure with practical, real-world applications.
+  Software engineer who builds across the stack. I care about clean architecture, reliable distributed systems, and open-source software that other developers can use, learn from, and improve.
 </p>
 
 ---
@@ -17,26 +17,26 @@
 <table>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/unitaryfoundation/mitiq">mitiq</a></b>
+      <b><a href="https://github.com/kawacukennedy/kuberna-labs">kuberna-labs</a></b>
       <br>
-      <sub>Contributing quantum error mitigation middleware for near-term quantum computers. Python, Cirq, Qiskit.</sub>
+      <sub>Decentralized execution rails for AI agents — autonomous cross-chain transactions powered by intents and zkTLS. TypeScript, Solidity, Rust.</sub>
     </td>
     <td width="50%">
-      <b><a href="https://github.com/TerraFund">TerraFund</a></b>
+      <b><a href="https://github.com/kawacukennedy/Crucix">Crucix</a></b>
       <br>
-      <sub>Building a land-to-investor platform for Rwanda — connecting verified land parcels with capital through smart contracts.</sub>
+      <sub>Personal intelligence agent that monitors multiple data sources and notifies you when something changes. Fork it, configure it, run it.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/unitaryfoundation/clifft">clifft</a></b>
+      <b><a href="https://github.com/kawacukennedy/github-readme">github-readme (3D Graph)</a></b>
       <br>
-      <sub>Contributing to a C++ framework for classical simulation of quantum circuits. Performance-critical templated linear algebra.</sub>
+      <sub>Isometric contribution graph that auto-updates daily. Added month-labels feature. Drop it into any profile README.</sub>
     </td>
     <td width="50%">
-      <b><a href="https://substack.com/@kawacukennedy">Open Source Writing</a></b>
+      <b><a href="https://github.com/kawacukennedy/awesome-ai-agents">awesome-ai-agents</a></b>
       <br>
-      <sub>Writing about open-source strategy, Web3 infrastructure, and developer tooling at the intersection of both.</sub>
+      <sub>Community-curated list of AI autonomous agents. Open to PRs — add a tool, a framework, or an agent you built.</sub>
     </td>
   </tr>
 </table>
